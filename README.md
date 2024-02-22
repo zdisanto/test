@@ -1,1 +1,3 @@
 # test
+
+where i put videos and photos to grab links from...
